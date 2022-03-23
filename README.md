@@ -1,5 +1,5 @@
 # Html-Css-JavaScript
- HTML5 CSS3 JavaScript
+ Html5 Css3 JavaScript
 
 Estou criando sites e gerenciando meus repositórios!
 
